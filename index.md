@@ -1,6 +1,2 @@
-#
----
-layout: default
----
-{% include 01-name.md %}
-
+# Harshal Chandane, Mechanical
+## I Love Cricket
